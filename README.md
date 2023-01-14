@@ -3,13 +3,13 @@
 
 <br/> 
 
-### ⌨️ I have experience in the design of web applications, both third-party and my own.  
+#### ⌨️ I have experience in the design of web applications, both third-party and my own.  
   
-### 💪 I specialize in frontend development using technologies such as ReactJS and TypeScript.  
+#### 💪 I specialize in frontend development using technologies such as ReactJS and TypeScript.  
   
-### 📘 I like to learn everyday and fully tech my knowledge to help others. I am very passionate about my profession.  
+#### 📘 I like to learn everyday and fully tech my knowledge to help others. I am very passionate about my profession.  
   
-### 💡 I'm always motivated to contribute and design solutions for challenging projects that help me change my perspectives and improve my skills.  
+#### 💡 I'm always motivated to contribute and design solutions for challenging projects that help me change my perspectives and improve my skills.  
   
 
 <br/> 
