@@ -1,19 +1,14 @@
-# **<div align="center">Hi, I'm Eze 👋</div>**  
-  
-<br/> 
-
+# **<div align="center">Hi, I'm Eze 👋</div>**    
 ### **<div align="center">A Software Developer from 🏙️ Buenos Aires, Argentina </div>**  
-  
+
+<br/> 
 
 ### ⌨️ I have experience in the design of web applications, both third-party and my own.  
   
-
 ### 💪 I specialize in frontend development using technologies such as ReactJS and TypeScript.  
   
-
 ### 📘 I like to learn everyday and fully tech my knowledge to help others. I am very passionate about my profession.  
   
-
 ### 💡 I'm always motivated to contribute and design solutions for challenging projects that help me change my perspectives and improve my skills.  
   
 
