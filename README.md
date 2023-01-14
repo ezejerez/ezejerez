@@ -1,5 +1,6 @@
 # **<div align="center">Hi, I'm Eze 👋</div>**  
   
+<br/> 
 
 ### **<div align="center">A Software Developer from 🏙️ Buenos Aires, Argentina </div>**  
   
@@ -16,7 +17,8 @@
 ### 💡 I'm always motivated to contribute and design solutions for challenging projects that help me change my perspectives and improve my skills.  
   
 
-<br/>  
+<br/> 
+<br/> 
 
 
 ## My Skill Set  
@@ -70,7 +72,7 @@
 </td></tr></table>  
 
 <br/>  
-
+<br/> 
 
 ## Connect with me  
 <div align="center">
