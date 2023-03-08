@@ -1,5 +1,5 @@
 # **<div align="center">Hi, I'm Eze 👋</div>**    
-### **<div align="center">A Software Developer from 🏙️ Buenos Aires, Argentina </div>**  
+### **<div align="center">A Software Engineer from 🏙️ Buenos Aires, Argentina </div>**  
 
 <br/> 
 
