@@ -1,5 +1,5 @@
 # **<div align="center">Hi, I'm Eze 👋</div>**    
-### **<div align="center">A Fullstack Software Engineer from 🏙️ Buenos Aires, Argentina </div>**  
+### **<div align="center">A Software Engineer & Full Stack Developer from 🏙️ Buenos Aires, Argentina </div>**  
 
 <br/> 
 
